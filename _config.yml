@@ -34,4 +34,4 @@ lib: lib
 # Is exist home page
 isHome:
   exist: true
-  url: http://www.yujunren.com/
+  url: https://miaocheng.github.io
