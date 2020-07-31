@@ -34,4 +34,4 @@ lib: lib
 # Is exist home page
 isHome:
   exist: true
-  url: https://miaocheng.github.io
+  url: http://miaocheng.github.io
